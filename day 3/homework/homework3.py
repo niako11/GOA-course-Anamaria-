@@ -1,0 +1,10 @@
+name="Anamaria"
+print(name)
+name="Nia"
+print(name)
+name="Giorgi"
+print(name)
+name="misha"
+print(name)
+name="charli"
+print(name)
