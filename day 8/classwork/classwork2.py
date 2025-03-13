@@ -1,0 +1,10 @@
+my_dog="goofy"
+print(my_dog)
+my_favorite_color="pink"
+print(my_favorite_color)
+his_name="nika"
+print(his_name)
+my_age=13
+print(my_age)
+my_fav_food="burger"
+print(my_fav_food)
